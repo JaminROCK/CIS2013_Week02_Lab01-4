@@ -1,0 +1,11 @@
+1. Who Invented the C Programming Language?  Dennis Ritchie
+
+2. What operating system was designed around the C Language? Linux
+
+3. Who invented the C++ programmming Language? Bjarne Stroustrup
+
+4. What is an example of a low level Language? Assembly
+
+5. What is an example of a high level Language? Python, Java, C++
+
+6. What class of Language is C++? Object Oriented Programming
